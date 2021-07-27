@@ -1,0 +1,27 @@
+{
+  "configuration": {
+    "offset": 5
+  },
+  "events": [
+    {
+      "start-time": "2019-09-07T15:50+01:00",
+      "end-time": "2019-09-07T15:50+01:00",
+      "url": "https://target.url/abc"
+    },
+    {
+      "start-time": "2019-09-07T15:50+01:00",
+      "end-time": "2019-09-07T15:50+01:00",
+      "url": "https://target.url/def"
+    },
+    {
+      "start-time": "2019-09-07T15:50+01:00",
+      "end-time": "2021-09-07T15:50+01:00",
+      "url": "https://target.url/ghi"
+    },
+    {
+      "start-time": "2019-09-07T15:50+01:00",
+      "end-time": "2019-09-07T15:50+01:00",
+      "url": "https://target.url/jkl"
+    }
+  ]
+}
